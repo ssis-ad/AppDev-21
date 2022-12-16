@@ -11,6 +11,7 @@
 		39042082294CC56400E0090D /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 39042081294CC56400E0090D /* ContentView.swift */; };
 		39042084294CC56600E0090D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 39042083294CC56600E0090D /* Assets.xcassets */; };
 		39042087294CC56600E0090D /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 39042086294CC56600E0090D /* Preview Assets.xcassets */; };
+		3904208E294CC66E00E0090D /* AppStore.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3904208D294CC66E00E0090D /* AppStore.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		39042081294CC56400E0090D /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		39042083294CC56600E0090D /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		39042086294CC56600E0090D /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		3904208D294CC66E00E0090D /* AppStore.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AppStore.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				3904207F294CC56400E0090D /* AppDev_21App.swift */,
 				39042081294CC56400E0090D /* ContentView.swift */,
+				3904208D294CC66E00E0090D /* AppStore.swift */,
 				39042083294CC56600E0090D /* Assets.xcassets */,
 				39042085294CC56600E0090D /* Preview Content */,
 			);
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				3904208E294CC66E00E0090D /* AppStore.swift in Sources */,
 				39042082294CC56400E0090D /* ContentView.swift in Sources */,
 				39042080294CC56400E0090D /* AppDev_21App.swift in Sources */,
 			);
