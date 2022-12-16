@@ -12,6 +12,7 @@
 		39042084294CC56600E0090D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 39042083294CC56600E0090D /* Assets.xcassets */; };
 		39042087294CC56600E0090D /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 39042086294CC56600E0090D /* Preview Assets.xcassets */; };
 		3904208E294CC66E00E0090D /* AppStore.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3904208D294CC66E00E0090D /* AppStore.swift */; };
+		39042090294CC6A200E0090D /* AppIcon.appiconset in Resources */ = {isa = PBXBuildFile; fileRef = 3904208F294CC6A200E0090D /* AppIcon.appiconset */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -21,6 +22,7 @@
 		39042083294CC56600E0090D /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		39042086294CC56600E0090D /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		3904208D294CC66E00E0090D /* AppStore.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AppStore.swift; sourceTree = "<group>"; };
+		3904208F294CC6A200E0090D /* AppIcon.appiconset */ = {isa = PBXFileReference; lastKnownFileType = folder; path = AppIcon.appiconset; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,7 @@
 				39042081294CC56400E0090D /* ContentView.swift */,
 				3904208D294CC66E00E0090D /* AppStore.swift */,
 				39042083294CC56600E0090D /* Assets.xcassets */,
+				3904208F294CC6A200E0090D /* AppIcon.appiconset */,
 				39042085294CC56600E0090D /* Preview Content */,
 			);
 			path = "AppDev 21";
@@ -129,6 +132,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				39042087294CC56600E0090D /* Preview Assets.xcassets in Resources */,
+				39042090294CC6A200E0090D /* AppIcon.appiconset in Resources */,
 				39042084294CC56600E0090D /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
